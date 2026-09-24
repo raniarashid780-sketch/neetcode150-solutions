@@ -8,7 +8,7 @@ Solutions to the [NeetCode150](https://neetcode.io/practice) problem set, worked
 
 | Category | Solved / Total | Priority | Status |
 |---|---|---|---|
-| Arrays & Hashing | 4 / 9 | Tier 1 | In progress |
+| Arrays & Hashing | 5 / 9 | Tier 1 | In progress |
 | Two Pointers | 0 / 5 | Tier 1 | Not started |
 | Sliding Window | 0 / 6 | Tier 1 | Not started |
 | Stack | 0 / 6 | Tier 1 | Not started |
